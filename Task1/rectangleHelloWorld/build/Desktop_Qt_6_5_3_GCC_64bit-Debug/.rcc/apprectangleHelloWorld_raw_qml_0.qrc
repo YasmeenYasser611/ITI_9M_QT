@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/rectangleHelloWorld/">
+    <file alias="Main.qml">/home/yasmeen/rectangleHelloWorld/Main.qml</file>
+  </qresource>
+</RCC>
+

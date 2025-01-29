@@ -1,0 +1,14 @@
+-rootPath
+/home/yasmeen/rectangleHelloWorld
+-cmake-output
+-output-file
+/home/yasmeen/rectangleHelloWorld/build/Desktop_Qt_6_5_3_GCC_64bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_apprectangleHelloWorld.cmake
+-importPath
+/home/yasmeen/rectangleHelloWorld/build/Desktop_Qt_6_5_3_GCC_64bit-Debug/rectangleHelloWorld
+-importPath
+/home/yasmeen/rectangleHelloWorld/build/Desktop_Qt_6_5_3_GCC_64bit-Debug
+-importPath
+/home/yasmeen/Qt/6.5.3/gcc_64/./qml
+-qrcFiles
+/home/yasmeen/rectangleHelloWorld/build/Desktop_Qt_6_5_3_GCC_64bit-Debug/.rcc/qmake_rectangleHelloWorld.qrc
+/home/yasmeen/rectangleHelloWorld/build/Desktop_Qt_6_5_3_GCC_64bit-Debug/.rcc/apprectangleHelloWorld_raw_qml_0.qrc

@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/rectangleHelloWorld">
+    <file alias="qmldir">/home/yasmeen/rectangleHelloWorld/build/Desktop_Qt_6_5_3_GCC_64bit-Debug/rectangleHelloWorld/qmldir</file>
+  </qresource>
+</RCC>
+
